@@ -111,9 +111,10 @@ ${answers.description}
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Contribution](#contribution)
 - [Tests](#tests)
+- [ScreenGIF](#screengif)
+- [License](#license)
 - [Questions](#questions)
 
 ## Installation  
@@ -127,6 +128,8 @@ ${answers.contribution}
 
 ## Tests
 ${answers.tests}
+
+## ScreenGIF
 
 ## License
 ${licenseLink}

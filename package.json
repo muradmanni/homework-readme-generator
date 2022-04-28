@@ -1,7 +1,7 @@
 {
   "name": "homework-readme-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "![License: MIT](https://img.shields.io/badge/LICENSE-MIT%20License-green) # homework-generate-readme",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +18,6 @@
   "homepage": "https://github.com/muradmanni/homework-readme-generator#readme",
   "dependencies": {
     "inquirer": "^8.2.3"
-  }
+  },
+  "devDependencies": {}
 }

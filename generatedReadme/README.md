@@ -1,9 +1,9 @@
 
-![License: MIT License](https://img.shields.io/badge/LICENSE-MIT%20License-green)
-# homework-generate-readme
+![License: Eclipse Public License 2.0](https://img.shields.io/badge/LICENSE-Eclipse%20Public%20License%202.0-green)
+# My Project
 
 ## Description
-This project will generate README.md in runtime.
+This is test project
     
 ## Table of Contents
 - [Installation](#installation)
@@ -14,14 +14,10 @@ This project will generate README.md in runtime.
 - [Questions](#questions)
 
 ## Installation  
-There are couple of steps in order to get going.
-
-On command line, run npm init
-Then, install using npm install, which will install all the dependencies.
-Then, run the project with node index.js
+There are no installation intructions for this project.
       
 ## Usage      
-The usage of this project is to generate README.md in runtime by giving answers to few questions.
+just to test and record
       
 ## Contribution
 None
@@ -30,8 +26,8 @@ None
 None
 
 ## License
-This project is covered under MIT License. 
-            For more information [click here](https://opensource.org/licenses/MIT)
+This project is covered under Eclipse Public License 2.0. 
+            For more information [click here](https://opensource.org/licenses/EPL-2.0)
       
 ## Questions
 Feel free to email at murad.manni@gmail.com, if you have any further questions relating to this project.
