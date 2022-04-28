@@ -1,5 +1,5 @@
 
-https://img.shields.io/badge/LICENSE-MIT%20License-green
+![License: MIT License](https://img.shields.io/badge/LICENSE-MIT%20License-green)
 # homework-generate-readme
 
 ## Description
@@ -15,9 +15,10 @@ This project will generate README.md in runtime.
 
 ## Installation  
 There are couple of steps in order to get going.
-1. On command line, run npm init
-2. Then, install using npm install, which will install all the dependencies.
-3. Then, run the project with node index.js
+
+On command line, run npm init
+Then, install using npm install, which will install all the dependencies.
+Then, run the project with node index.js
       
 ## Usage      
 The usage of this project is to generate README.md in runtime by giving answers to few questions.
