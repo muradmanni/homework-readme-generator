@@ -46,7 +46,7 @@ inquirer
         {
             type: 'input',
             message: 'Please give any test instructions : ',
-            name: 'instructions'
+            name: 'tests'
         },
         {
             type: 'list',
@@ -57,7 +57,7 @@ inquirer
         {
             type: 'input',
             message: 'Please give github username : ',
-            name: 'githubUsername'
+            name: 'github'
         },
         {
             type: 'input',
@@ -101,13 +101,14 @@ function generateReadme(answers){
 
 
 
-    return  `${readme}
+    return  `
+${readme}
+# ${answers.title}
 
 ## Description
 ${answers.description}
     
 ## Table of Contents
-- [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -118,21 +119,21 @@ ${answers.description}
 ## Installation  
 ${answers.installation}
       
-## Usage
-      
+## Usage      
 ${answers.usage}
       
-## License
-${licenseLink}
-      
-    
 ## Contribution
 ${answers.contribution}
 
 ## Tests
-${answers.testInstructions}
-    
+${answers.tests}
+
+## License
+${licenseLink}
+      
 ## Questions
 Feel free to email at ${answers.email}, if you have any further questions relating to this project.
+
+Checkout more on [Github](https://github.com/${answers.github})
     `;
 }
