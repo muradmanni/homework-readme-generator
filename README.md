@@ -8,9 +8,10 @@ This project will generate README.md in runtime.
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Contribution](#contribution)
 - [Tests](#tests)
+- [ScreenGif](#screengif)
+- [License](#license)
 - [Questions](#questions)
 
 ## Installation  
@@ -28,6 +29,10 @@ None
 ## Tests
 None
 
+## ScreenGif
+![gif showing installation](assets/screen1.gif)
+
+![gif showing input and runtime generated readme.md](assets/screen2.gif)
 ## License
 This project is covered under MIT License. 
             For more information [click here](https://opensource.org/licenses/MIT)

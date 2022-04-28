@@ -130,7 +130,7 @@ ${answers.contribution}
 ${answers.tests}
 
 ## ScreenGIF
-
+![gif showing installation](assets/screen1.gif)
 ## License
 ${licenseLink}
       
