@@ -73,11 +73,11 @@ inquirer
 })
 
 function generateReadme(answers){
-    let readme="";
+    let badge="";
     let licenseLink;
     if(answers.license)
     {
-        readme = `https://img.shields.io/badge/LICENSE-${answers.license.replaceAll(' ','%20')}-green`;
+        badge = `(https://img.shields.io/badge/LICENSE-${answers.license.replaceAll(' ','%20')}-green)`;
     }
     switch (answers.license)
     {
@@ -102,7 +102,7 @@ function generateReadme(answers){
 
 
     return  `
-${readme}
+${badge}
 # ${answers.title}
 
 ## Description
