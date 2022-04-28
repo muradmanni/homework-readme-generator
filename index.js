@@ -102,7 +102,7 @@ function generateReadme(answers){
 
 
     return  `
-${badge}
+![License: ${answers.license}]${badge}
 # ${answers.title}
 
 ## Description

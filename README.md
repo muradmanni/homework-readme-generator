@@ -1,5 +1,5 @@
 
-[![License: MIT](https://img.shields.io/badge/LICENSE-MIT%20License-green)
+![License: MIT](https://img.shields.io/badge/LICENSE-MIT%20License-green)
 # homework-generate-readme
 
 ## Description
