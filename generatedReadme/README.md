@@ -1,33 +1,41 @@
 
-![License: Eclipse Public License 2.0](https://img.shields.io/badge/LICENSE-Eclipse%20Public%20License%202.0-green)
-# My Project
+![License: MIT License](https://img.shields.io/badge/LICENSE-MIT%20License-green)
+# homework-team-profile-generator
 
 ## Description
-This is test project
+This project will run on node.js and will ask few questions about the team and then generate a runtime html displaying team information.
     
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Contribution](#contribution)
 - [Tests](#tests)
+- [ScreenGIF](#screengif)
+- [License](#license)
 - [Questions](#questions)
 
 ## Installation  
-There are no installation intructions for this project.
+to install type ----
+
+npm install
+
+
+which will install all the dependency modules
       
 ## Usage      
-just to test and record
+
       
 ## Contribution
-None
+
 
 ## Tests
-None
+npm run test
 
+## ScreenGIF
+![gif showing installation](assets/screen1.gif)
 ## License
-This project is covered under Eclipse Public License 2.0. 
-            For more information [click here](https://opensource.org/licenses/EPL-2.0)
+This project is covered under MIT License. 
+            For more information [click here](https://opensource.org/licenses/MIT)
       
 ## Questions
 Feel free to email at murad.manni@gmail.com, if you have any further questions relating to this project.
