@@ -36,7 +36,7 @@ None
 ![gif showing input and runtime generated readme.md](assets/screen2.gif)
 
 ## Walkthrough Video <a name="walkthrough"></a>
-![walkthrough video of the project](https://youtu.be/EbiV-CWM65c)
+[![walkthrough video](/assets/walk-through-video.jpg)](https://youtu.be/EbiV-CWM65c)
 
 ## License
 This project is covered under MIT License. 
