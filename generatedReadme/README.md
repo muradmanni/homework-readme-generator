@@ -1,9 +1,9 @@
 
 ![License: MIT License](https://img.shields.io/badge/LICENSE-MIT%20License-green)
-# homework-team-profile-generator
+# homework-generate-readme
 
 ## Description
-This project will run on node.js and will ask few questions about the team and then generate a runtime html displaying team information.
+This project will generate README.md in runtime.
     
 ## Table of Contents
 - [Installation](#installation)
@@ -15,21 +15,20 @@ This project will run on node.js and will ask few questions about the team and t
 - [Questions](#questions)
 
 ## Installation  
-to install type ----
+There are couple of steps in order to get going.
 
-npm install
-
-
-which will install all the dependency modules
+On command line, run npm init
+Then, install using npm install, which will install all the dependencies.
+Then, run the project with node index.js
       
 ## Usage      
-
+node index.js
       
 ## Contribution
-
+none
 
 ## Tests
-npm run test
+None
 
 ## ScreenGIF
 ![gif showing installation](assets/screen1.gif)

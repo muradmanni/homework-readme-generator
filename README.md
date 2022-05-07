@@ -11,6 +11,7 @@ This project will generate README.md in runtime.
 - [Contribution](#contribution)
 - [Tests](#tests)
 - [ScreenGif](#screengif)
+- [Walkthrough Video](#walkthrough)
 - [License](#license)
 - [Questions](#questions)
 
@@ -33,6 +34,10 @@ None
 ![gif showing installation](assets/screen1.gif)
 
 ![gif showing input and runtime generated readme.md](assets/screen2.gif)
+
+## Walkthrough Video <a name="walkthrough"></a>
+![walkthrough video of the project](assets/walkthrough.mp4)
+
 ## License
 This project is covered under MIT License. 
             For more information [click here](https://opensource.org/licenses/MIT)
